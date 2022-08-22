@@ -1,0 +1,6 @@
+*git init na pasta - inicia o git
+*git status - status de algo ocorrido dentro do diretório 
+*git clone + url - clona o repositório
+*git add . ou -A - adiciona a alteração para ser commitado
+*git commit -m " aqui texto exibido no commit"
+*git push origin main - atualiza o repositório na nuvem do git

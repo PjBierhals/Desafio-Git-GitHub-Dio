@@ -1,0 +1,26 @@
+dados-sem sentido claro uma pequena parte de algo
+informação-organização dos dados de maneira a transmitir algo significativo
+
+Big Data
+velocidade
+varidade
+volume
+
+Banco de dados
+coleção de palavras, que há um relecionamentro dentre elas onde contitui um bd
+contexto da representação do mundo real
+coerência
+próposito
+
+dados do banco são gereciado por APis
+ações get, post, put ou delete ocasionam a mudança de estado do banco de dados
+ 
+sistemas que gerenciam banco de dado SGBD ou DBMS
+definição - diretrizes que regem as regras 
+construção - persistenciia do dados
+manipluação - intermedio de acesso por meio de uma linguagem
+compartilhamento - regras gerenciadas 
+
+transações submetidas ao sgbd e o retorno 
+software modular
+ 

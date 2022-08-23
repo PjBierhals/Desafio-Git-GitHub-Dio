@@ -24,3 +24,28 @@ compartilhamento - regras gerenciadas
 transações submetidas ao sgbd e o retorno 
 software modular
  
+user convêncional e o administrador
+
+model relational
+definição da tabelas e contraints para dados
+comandos trazidos pelo processador
+LBD
+processo de tradução onde a query e compilada
+modo de execulção
+gerenciador acessando metadados
+
+model relational convencional
+linguagen de manipulação
+transação
+
+repositorios centralizados - Data warehouses
+mediadores middleware
+
+SGBDs mais utilizados no mercado
+1 oracle PL
+mysql
+sql server
+postgresql
+mongoDB
+redis
+

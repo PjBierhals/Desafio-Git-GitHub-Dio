@@ -1,0 +1,18 @@
+futuro da modelagem
+contexto majoritário
+*sistemas coporativos como papel central requisições comums
+80 % operações simples 
+
+researching ambiente de pesquisa
+*numero de tarefas
+*quantidade de dados
+*heteregeneidade
+*conputação paralea destribuida
+
+
+paradigma cientifico
+
+1 experimental
+2 teoremas cientificos
+3ciência computacional
+4 ciencia baseada em dados orientada a dados
